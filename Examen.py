@@ -6,7 +6,7 @@ para el mes entra en un ciclo while donde se compara la variable i si es menor a
 	A la variable fecha se le resta el mes extraido y se divide entre 10
 	la variable i se suma 1
 Se compara los meses para saber si ya paso ese mes en ese año
-si no ha pasado se resta 1
+si no ha pasado se resta 1 
 se compara los meses para saber cual es el menor y subarle 12 y se le resta el otro mes
 Se compara los dias para saber cual es el mayor para restarlo 
 para la variable final se multiplica la variable por 100 para guardar todos los datos
